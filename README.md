@@ -1,16 +1,16 @@
-## Hi there 👋
+👤 Sou vinicius de oliveira Soliz, moro na cidade de Serra Negra no interior de São Paulo,
+e atualmente estou cursando Desenvolvimento de Sistemas na Etec Jõao Belarmino, as aréas que estou e atuando
+Html, Css, JavaScript, kotlin e bem basico o PHP.
 
-<!--
-**solizvini-tech/solizvini-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 Atualmente as linguagens que mais gosto de trabalhar é o html e css que não é uma linguagem de programação mas mesmo assim acho interessante,
+e gosto de usar o JavaScript como como linguagem de progamação. 
 
-Here are some ideas to get you started:
+ ✓ Os principais projetos que ja criei no geral em todas as linguagens de programação, foi um cadastro complteto de livro usando html,css e JavaScript,
+para entrar em sua conta e cadastrar o livro, foi o projeto que mais aprendi sobre e gostei.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗣️ Umas das linguas que eu queria aprender no futuro e comentam muito é Java e pyton, são linguagens bem comentadas e queria saber mais sobre.
+
+📈 Ja trabalhei com diversos projetos, mas como citei acima para mim o projeto que mais aprendi e gostei foi de cadastro de livro, usando html, css e JavaScript.
+
+📁 Meus objetivos profissionais é fazer estagios, para conseguir com meu conhecimento empregos melhores e ter mais oportunidades.
+
